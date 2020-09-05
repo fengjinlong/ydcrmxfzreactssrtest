@@ -94,7 +94,7 @@
     "webpack-jarvis": "^0.3.2",
     "webpack-merge": "^4.2.2",
     "webpack-node-externals": "^1.7.2",
-    "yargs-parser": "^16.1.0"
+    "yargs-parser": "^19.0.4"
   },
   "dependencies": {
     "antd": "^3.25.0",
